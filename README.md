@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djante Picante aka Adam coming from California, US
-- 👀 I’m interested in machine learning, data analysis, and open source manufacturing/design
-- 🌱 I’m currently learning python, database architecture, and texture carving
+- 👀 I’m interested in machine learning, data analysis, and open source manufacturing/design concepts.
+- 🌱 I’m currently learning python, database architecture, and advanced statistics
 - 💞️ I’m looking to collaborate on special projects involving massive data, error management, and systems processing
 - 📫 Please reach out at adam.bublitz@gmail.com or Djante on github
 
